@@ -1,0 +1,15 @@
+{
+    "Name": "Nome",
+    "Participant": "Participante",
+    "Evaluation": "Avaliação",
+    "Question": "Questâo",
+    "Description": "Descrição",
+    "Photo": "Fotografia",
+    "Birthday": "Data de Nascimento",
+    "School": "Dojo",
+    "Division": "Escalão",
+    "Created at": "Criada a",
+    "Updated at": "Atualizada a",
+    "User": "Utilizador"
+
+}
